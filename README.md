@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hello folks! 👋
+I'm a software engineer with over 7 years of experience. I possess expertise in .NET, JavaScript and PHP frameworks.
+I always welcome entrepreneurs & innovators to partner up with my highly experienced skills & stacks to implement your ideas into reality. Whether you need a website, coin or apps developed or even Digital Marketing campaigns executed, I am at your disposal.
+
+## Things you should know
+- 🔭 Currently working on: React.js, Next.js, Express.js, GraphQL, Postgresql, Prisma & Web3.
+- 🌱 Getting better at: Javascript, Typescript, Vue, PHP, C#, .NET, Datastructure & Algorithms.
+- 💬 Ask me about: Javascript, React, Vue, PHP, .NET, Blockchain technologies
+- 📫 Reach me out: Shoot a mail at alijourney589@gmail.com
+
+I look forward to the possibility of working together or even just exchanging insights and experiences in our respective fields. 
+Please feel free to reach out if there are any areas where I can offer support or if you would like to explore potential collaborations.
+
+Thank you
 
 <!--
 **greatjourney589/greatjourney589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
