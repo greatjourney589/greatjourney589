@@ -4,7 +4,7 @@ I always welcome entrepreneurs & innovators to partner up with my highly experie
 
 ## Things you should know
 - 🔭 Currently working on: Typescript, React, Next.js, Express.js, GraphQL, Postgresql, Seqlize, Prisma & Web3.
-- 🌱 Getting better at: Svelte, Elixir, Phoenix, Vue, PHP, Python, Datastructure & Algorithms and AI.
+- 🌱 Getting better at: Svelte, Vue, PHP, Python, Datastructure & Algorithms and AI.
 - 💬 Ask me about: Javascript, Svelte, Elixir, Phoenix, AI, Blockchain technologies
 - 📫 Reach me out: Shoot a mail at alijourney589@gmail.com
 
