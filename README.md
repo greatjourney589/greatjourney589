@@ -6,7 +6,7 @@ I always welcome entrepreneurs & innovators to partner up with my highly experie
 - 🔭 Currently working on: Typescript, React, Next.js, C#, ASP.NET, Node.js, Python, and GraphQL.
 - 🌱 Getting better at: Svelte, C#, Python, Datastructure & Algorithms and AI.
 - 💬 Ask me about: TypeScript, C#, Svelte, AI technologies
-- 📫 Reach me out: Shoot a mail at alijourney589@gmail.com
+- 📫 Reach me out: Shoot a mail at wangkyle103@gmail.com
 
 I look forward to the possibility of working together or even just exchanging insights and experiences in our respective fields. 
 Please feel free to reach out if there are any areas where I can offer support or if you would like to explore potential collaborations.
